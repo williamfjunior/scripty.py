@@ -1,2 +1,0 @@
-# scripty.py
-controleFinanceiro
